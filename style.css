@@ -38,8 +38,7 @@ body {
   
   #drawButton { /* botão "sortear" */
     background-color: green;
-    /* width: 80%; */
-    animation: botao-light 4s ease-in-out infinite; /* Aumentei para 4s e troquei para ease-in-out */
+    animation: botao-light 4s ease-in-out infinite;
 }
 
 @keyframes botao-light{
