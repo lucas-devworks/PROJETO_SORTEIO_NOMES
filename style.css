@@ -5,6 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #353535;
+    flex-direction: column;
   }
   
   .container {
@@ -86,7 +87,7 @@ body {
   }
   
   #result {
-    font-size: 1.5rem;
+    font-size: 1.5rem; 
     font-weight: bold;
     margin-top: 20px;
   }
